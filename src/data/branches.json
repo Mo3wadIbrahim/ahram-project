@@ -1,0 +1,28 @@
+[
+  {
+    "id": "1",
+    "branchName": "Downtown Store",
+    "branchCode": "BR-001",
+    "address": "123 Main St, Cityville",
+    "coverageLocations": ["Downtown", "West End"],
+    "minimumOrder": 50,
+    "workTime": "10:00 AM - 12:00 AM",
+    "deliveryFees": 5,
+    "comments": "Flagship store in the heart of the city",
+    "lat": 30.0444,
+    "lng": 31.2357
+  },
+  {
+    "id": "2",
+    "branchName": "Uptown Market",
+    "branchCode": "BR-002",
+    "address": "456 High St, Cityville",
+    "coverageLocations": ["Uptown", "North Side"],
+    "minimumOrder": 30,
+    "workTime": "08:00 AM - 10:00 PM",
+    "deliveryFees": 3,
+    "comments": "Smaller selection but faster delivery",
+    "lat": 30.0626,
+    "lng": 31.2497
+  }
+]

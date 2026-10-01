@@ -1,0 +1,6 @@
+@echo off
+echo Installing dependencies...
+call npm install
+echo Starting development server...
+start http://localhost:5173
+call npm run dev
