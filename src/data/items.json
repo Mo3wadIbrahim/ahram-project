@@ -18,15 +18,5 @@
     "units": "Bottle",
     "stock": 500,
     "comments": "Non-alcoholic alternative"
-  },
-  {
-    "itemCode": "23",
-    "itemName": "12",
-    "itemPrice": 12,
-    "alcoholPercentage": 12,
-    "units": "Bottle",
-    "stock": 12,
-    "comments": "12",
-    "id": "1790870454583"
   }
 ]

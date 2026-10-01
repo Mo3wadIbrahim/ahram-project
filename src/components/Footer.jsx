@@ -10,7 +10,7 @@ export default function Footer() {
           </div>
           <div className="mt-8 md:mt-0 md:order-1">
             <p className="text-center text-sm text-gray-500 font-semibold">
-              TM @ Ramy Samih
+              © Ramy Samih
             </p>
           </div>
         </div>
